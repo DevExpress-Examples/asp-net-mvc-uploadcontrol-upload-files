@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [UploadControlPartial.cshtml](./CS/Views/Home/UploadControlPartial.cshtml)
+<!-- default file list end -->
 # UploadControl - How to upload a file via AJAX
 
 
