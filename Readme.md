@@ -6,6 +6,9 @@
 * [UploadControlPartial.cshtml](./CS/Views/Home/UploadControlPartial.cshtml)
 <!-- default file list end -->
 # UploadControl - How to upload a file via AJAX
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4381/)**
+<!-- run online end -->
 
 
 <p>This example is a standalone illustration of the <a href="http://demos.devexpress.com/MVC/UploadControl/Callbacks"><u>File Upload - AJAX Uploading</u></a> demo. It illustrates how to upload a file via the MVC UploadControl Extension.</p><p>- Specify the UploadControl settings: define the Name property and the CallbackRouteValues.Action method that should handle the file uploading;<br />
