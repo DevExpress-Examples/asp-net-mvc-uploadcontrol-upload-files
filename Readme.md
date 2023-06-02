@@ -7,7 +7,7 @@ This example demonstrates how to use the MVC UploadControl Extension to upload f
 
 ## Overview
 
-Add an [upload control](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.UploadControlExtension), specify its [Name](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.SettingsBase.Name) and [CallbackRouteValues](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.UploadControlSettings.CallbackRouteValues) properties.
+Add an [upload control](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.UploadControlExtension) and specify its [Name](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.SettingsBase.Name) and [CallbackRouteValues](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.UploadControlSettings.CallbackRouteValues) properties.
 
 ```cshtml
 @Html.DevExpress().UploadControl(settings => {
@@ -17,7 +17,7 @@ Add an [upload control](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc
 }).GetHtml()
 ```
 
-Create a button and handle its client-side `Click` event. In the hanlder, call the upload control's `Upload` method to post the selected file to the server memory.
+Create a button and handle its client-side `Click` event. In the hanlder, call the upload control's `Upload` method to post the selected file to the server's memory.
 
 ```js
 function OnClick(s, e) {
@@ -45,7 +45,7 @@ public ActionResult UploadControlCallbackAction() {
 }
 ```
 
-To pass any information to the client, use the `e.CallbackData` argument property in the `UploadComplete` event handler. Then handle the client-side `FileUploadComplete` event and use its `e.callbackData` argument property to get the passed information.
+To pass information to the client, use the `e.CallbackData` argument property in the `UploadComplete` event handler. Then, handle the client-side `FileUploadComplete` event and use its `e.callbackData` argument property to get the passed information.
 
 ## Files to Review
 
