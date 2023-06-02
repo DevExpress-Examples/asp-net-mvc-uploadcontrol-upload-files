@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Upload Control for ASP.NET MVC - How to upload a file
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4381/)**
+**[[Run Online]](https://codecentral.devexpress.com/128553151/)**
 <!-- run online end -->
 
 This example demonstrates how to use the MVC UploadControl Extension to upload files.
