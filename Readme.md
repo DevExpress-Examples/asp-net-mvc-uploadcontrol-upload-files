@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Upload Control for ASP.NET MVC - How to upload a file
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128553151/)**
-<!-- run online end -->
 
 This example demonstrates how to use the MVC UploadControl Extension to upload files.
 
