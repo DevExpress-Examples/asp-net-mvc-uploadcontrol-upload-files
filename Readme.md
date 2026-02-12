@@ -60,7 +60,7 @@ To pass information to the client, use the `e.CallbackData` argument property in
 
 * [File Upload - AJAX Uploading](https://demos.devexpress.com/MVCxFileManagerAndUploadDemos/UploadControl/DragAndDrop)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-uploadcontrol-upload-files&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-uploadcontrol-upload-files&~~~was_helpful=no)
 
